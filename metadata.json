@@ -1,0 +1,6 @@
+{
+  "name": "Neural Glass",
+  "description": "Інтерактивна система живої нейронної мережі з багатошаровою архітектурою скляних панелей у преміальних сірих та титанових тонах.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
